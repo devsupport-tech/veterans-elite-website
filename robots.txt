@@ -1,0 +1,12 @@
+# Robots.txt for Veterans Elite Contractors
+# https://veteranselitecontractors.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://veteranselitecontractors.com/sitemap.xml
+
+# Disallow admin/private areas (add as needed)
+# Disallow: /admin/
+# Disallow: /private/

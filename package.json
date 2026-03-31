@@ -1,0 +1,17 @@
+{
+  "name": "veterans-elite-contractors",
+  "version": "1.0.0",
+  "description": "Veterans Elite Contractors - Restoration Services Website",
+  "scripts": {
+    "dev": "npx live-server . --port=3000",
+    "start": "npx live-server . --port=3000"
+  },
+  "keywords": [
+    "restoration",
+    "contractor",
+    "veteran-owned"
+  ],
+  "author": "Veterans Elite Contractors",
+  "license": "UNLICENSED",
+  "private": true
+}
