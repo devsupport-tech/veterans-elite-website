@@ -5,7 +5,7 @@ FROM nginx:alpine
 
 # Add labels for container identification
 LABEL maintainer="admin@veteranselitecontractors.com"
-LABEL description="Veterans Elite Contractors - Restoration Services Website"
+LABEL description="Veterans Elite Contractors - Contracting & Restoration Services Website"
 LABEL version="1.0"
 
 # Remove default nginx static content
@@ -23,6 +23,7 @@ COPY favicon.svg /usr/share/nginx/html/
 COPY robots.txt /usr/share/nginx/html/
 COPY sitemap.xml /usr/share/nginx/html/
 COPY services/ /usr/share/nginx/html/services/
+COPY images/ /usr/share/nginx/html/images/
 
 # Set proper permissions
 RUN chown -R nginx:nginx /usr/share/nginx/html && \
