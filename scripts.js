@@ -255,7 +255,7 @@
                 `;
                 submitBtn.style.background = '#DC2626';
 
-                showFormMessage('error', 'Something went wrong. Please call us at (858) 555-0123.');
+                showFormMessage('error', 'Something went wrong. Please call us at (888) 768-3837.');
 
                 setTimeout(() => {
                     submitBtn.disabled = false;

@@ -16,8 +16,8 @@ BEFORE GOING LIVE - THINGS TO UPDATE:
 =====================================
 
 1. PHONE NUMBER
-   - Search for "(858) 555-0123" and replace with your real phone number
-   - Also update the tel: links (search for "tel:+18585550123")
+   - Search for "(888) 768-3837" and replace with your real phone number
+   - Also update the tel: links (search for "tel:+18887683837")
 
 2. EMAIL ADDRESS
    - Replace "info@veteranselitecontractors.com" with your real email
